@@ -37,8 +37,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "admin123"
+ADMIN_USERNAME = "Pushpo"
+ADMIN_PASSWORD = "pushpo3240"
 
 SLOT_CONFIG = [
     {"id": "A1", "zone": "A", "type": "car"},
